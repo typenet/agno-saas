@@ -1,0 +1,1 @@
+# Conexão única com Supabase

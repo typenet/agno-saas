@@ -1,0 +1,1 @@
+# Salva interações no Supabase

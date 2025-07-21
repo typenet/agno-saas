@@ -1,0 +1,6 @@
+agno
+duckduckgo-search
+fastapi
+uvicorn
+supabase
+psycopg[binary]
